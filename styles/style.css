@@ -13,7 +13,7 @@ body {
   float: left;
 }
 
-.icwmt-closed__header-logo .logo {
+.icwmt-closed__header-link {
   display: block;
   width: 142px;
   height: 132px;
@@ -48,12 +48,14 @@ body {
 
 .icwmt-closed__content p {
   font-size: 20px;
+  font-weight: 100;
+  color: #141921;
 }
 
 .icwmt-closed__content p:nth-child(2) {
-  font-size: 15px;
+  font-size: 16px;
 }
 
 .icwmt-closed__content a {
-  color: #628cf2;
+  color: #6699eb;
 }
